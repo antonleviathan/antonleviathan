@@ -8,6 +8,6 @@ To learn more about why:
 * [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
 
 ## Alternatives
-* [Codeberg](codeberg.org/)
+* [Codeberg](https://codeberg.org/)
 * [Forgejo](https://forgejo.org/)
 * [Gitea](https://about.gitea.com/)
