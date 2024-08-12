@@ -1,18 +1,13 @@
-### Hi there 👋
+# Migrating from GitHub
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 
-You can find out more about me [here](https://antonlivaja.com)
+In the interest of supporting OSS and decentralization, I am in the process of moving all my repositories to open source alternatives.
 
-<!--
-**antonleviathan/antonleviathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To learn more about why:
+* [Don't Upload Other People's Code To GitHub](https://nogithub.codeberg.page/)
+* [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Alternatives
+* [Codeberg](codeberg.org/)
+* [Forgejo](https://forgejo.org/)
+* [Gitea](https://about.gitea.com/)
