@@ -9,5 +9,6 @@ To learn more about why:
 
 ## Alternatives
 * [Codeberg](https://codeberg.org/)
+* [SourceHut](https://sourcehut.org/)
 * [Forgejo](https://forgejo.org/)
 * [Gitea](https://about.gitea.com/)
